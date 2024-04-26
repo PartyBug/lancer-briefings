@@ -110,7 +110,7 @@ export default {
         },
         {
           "callsign": "Tortise",
-          "alias": "Akara Durell",
+          "alias": "Alara Durell",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
           "frame": "Everest",
@@ -134,12 +134,12 @@ export default {
         }
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "Karrakis",
         "year": "5014u",
-        "system": "Ardennes-3",
+        "system": "Karrakin",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Common Lot",
+        "headerTitle": "Claws of Karrakis",
         "headerSubtitle": "Free Company",
         "subheaderTitle": "Crisis Response",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
