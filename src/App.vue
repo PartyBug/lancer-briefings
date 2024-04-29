@@ -96,6 +96,16 @@ export default {
         {
           "slug": "001",
           "name": "Mind Your Business",
+          "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "Out of Bounds",
+          "status": "start"
+        },
+        {
+          "slug": "003",
+          "name": "Reposession",
           "status": "start"
         },
       ],
