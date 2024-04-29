@@ -116,7 +116,7 @@ export default {
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Unknown"
+          "mech": "Babe Mustafa"
         },
         {
           "callsign": "Tortise",
@@ -127,7 +127,7 @@ export default {
           "mech": "Brass Tortise"
         },
         {
-          "callsign": "n/a",
+          "callsign": "Gelsomino",
           "alias": "Gelsomino Francoise",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
