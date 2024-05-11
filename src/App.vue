@@ -101,13 +101,18 @@ export default {
         {
           "slug": "002",
           "name": "Out of Bounds",
+          "status": "failure"
+        },
+        {
+          "slug": "004",
+          "name": "Hot Pursuit",
           "status": "start"
         },
         {
-          "slug": "003",
-          "name": "Reposession",
+          "slug": "005",
+          "name": "The Transporter",
           "status": "start"
-        },
+        }
       ],
       "pilots": [
         {
@@ -152,7 +157,7 @@ export default {
         "headerTitle": "Claws of Karrakis",
         "headerSubtitle": "Free Company",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Beta-Beta-Lima-Drizzy",
       },
       "options":{
         "eventsMarkdownPerMission": true
