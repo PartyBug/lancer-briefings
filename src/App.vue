@@ -106,11 +106,26 @@ export default {
         {
           "slug": "004",
           "name": "Hot Pursuit",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "005",
           "name": "The Transporter",
+          "status": "success"
+        },
+        {
+          "slug": "006",
+          "name": "Training Day",
+          "status": "start"
+        },
+        {
+          "slug": "007",
+          "name": "The Most Dangerous Game",
+          "status": "start"
+        },
+        {
+          "slug": "008",
+          "name": "Nanomachines, Son",
           "status": "start"
         }
       ],
@@ -157,7 +172,7 @@ export default {
         "headerTitle": "Claws of Karrakis",
         "headerSubtitle": "Free Company",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Beta-Beta-Lima-Drizzy",
+        "subheaderSubtitle": "Beta-Oscar-Foxtrot-Alpha",
       },
       "options":{
         "eventsMarkdownPerMission": true
