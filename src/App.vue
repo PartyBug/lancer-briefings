@@ -116,16 +116,11 @@ export default {
         {
           "slug": "006",
           "name": "Training Day",
-          "status": "start"
+          "status": "success"
         },
         {
-          "slug": "007",
-          "name": "The Most Dangerous Game",
-          "status": "start"
-        },
-        {
-          "slug": "008",
-          "name": "Nanomachines, Son",
+          "slug": "009",
+          "name": "Even dust, when piled, can become a mountain",
           "status": "start"
         }
       ],
