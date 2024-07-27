@@ -121,6 +121,21 @@ export default {
         {
           "slug": "009",
           "name": "Even dust, when piled, can become a mountain",
+          "status": "success"
+        },
+        {
+          "slug": "010",
+          "name": "Fury Road",
+          "status": "start"
+        },
+        {
+          "slug": "011",
+          "name": "Hold The Line",
+          "status": "start"
+        },
+        {
+          "slug": "012",
+          "name": "I'm Hackerman",
           "status": "start"
         }
       ],
