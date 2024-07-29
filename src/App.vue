@@ -174,11 +174,11 @@ export default {
         }
       ],
       "header": {
-        "planet": "Karrakis",
+        "planet": "Dawnline Shore",
         "year": "5014u",
         "system": "Karrakin",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
+        "gate": "Rao Co",
+        "ring": "Annamite-Line",
         "headerTitle": "Claws of Karrakis",
         "headerSubtitle": "Free Company",
         "subheaderTitle": "Crisis Response",
