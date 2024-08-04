@@ -137,6 +137,21 @@ export default {
           "slug": "012",
           "name": "I'm Hackerman",
           "status": "start"
+        },
+        {
+          "slug": "013",
+          "name": "Enemy at the Gates",
+          "status": "start"
+        },
+        {
+          "slug": "014",
+          "name": "Intercepter",
+          "status": "start"
+        },
+        {
+          "slug": "015",
+          "name": "Big Trouble",
+          "status": "start"
         }
       ],
       "pilots": [
@@ -175,8 +190,8 @@ export default {
       ],
       "header": {
         "planet": "Dawnline Shore",
-        "year": "5014u",
-        "system": "Karrakin",
+        "year": "5017u",
+        "system": "Dawnline Shore",
         "gate": "Rao Co",
         "ring": "Annamite-Line",
         "headerTitle": "Claws of Karrakis",
