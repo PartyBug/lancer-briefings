@@ -126,17 +126,17 @@ export default {
         {
           "slug": "010",
           "name": "Fury Road",
-          "status": "start"
+          "status": "failure"
         },
         {
           "slug": "011",
           "name": "Hold The Line",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "012",
           "name": "I'm Hackerman",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "013",
