@@ -141,16 +141,31 @@ export default {
         {
           "slug": "013",
           "name": "Enemy at the Gates",
-          "status": "start"
+          "status": "failure"
         },
         {
           "slug": "014",
           "name": "Intercepter",
-          "status": "start"
+          "status": "partial-success"
         },
         {
           "slug": "015",
           "name": "Big Trouble",
+          "status": "success"
+        },
+        {
+          "slug": "016",
+          "name": "T Minus 30",
+          "status": "start"
+        },
+        {
+          "slug": "017",
+          "name": "Revenge of Hackerman",
+          "status": "start"
+        },
+        {
+          "slug": "018",
+          "name": "Hostile Takeover",
           "status": "start"
         }
       ],
