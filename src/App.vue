@@ -156,16 +156,31 @@ export default {
         {
           "slug": "016",
           "name": "T Minus 30",
-          "status": "start"
+          "status": "failure"
         },
         {
           "slug": "017",
           "name": "Revenge of Hackerman",
-          "status": "start"
+          "status": "failure"
         },
         {
           "slug": "018",
           "name": "Hostile Takeover",
+          "status": "success"
+        },
+        {
+          "slug": "019",
+          "name": "Dealer's Choice",
+          "status": "start"
+        },
+        {
+          "slug": "020",
+          "name": "3:10 To Uma",
+          "status": "start"
+        },
+        {
+          "slug": "021",
+          "name": "Prison Break",
           "status": "start"
         }
       ],
