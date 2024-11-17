@@ -171,16 +171,21 @@ export default {
         {
           "slug": "019",
           "name": "Dealer's Choice",
-          "status": "start"
+          "status": "failure"
         },
         {
           "slug": "020",
           "name": "3:10 To Uma",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "021",
           "name": "Prison Break",
+          "status": "failure"
+        },
+        {
+          "slug": "022",
+          "name": "Erasure",
           "status": "start"
         }
       ],
