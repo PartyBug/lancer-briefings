@@ -186,6 +186,11 @@ export default {
         {
           "slug": "022",
           "name": "Erasure",
+          "status": "success"
+        },
+        {
+          "slug": "023",
+          "name": "Mission Accomplished",
           "status": "start"
         }
       ],
